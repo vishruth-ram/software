@@ -1,3 +1,2 @@
-# About
-  - About software I made
-  - Code not to be copied.
+- Please do not copy this code as it is a part of my apps
+
